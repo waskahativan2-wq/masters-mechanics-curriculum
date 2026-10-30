@@ -112,3 +112,4 @@ When sources arrive, preserve official requirements separately, replace proposed
 The editable workbook has dedicated sheets for learning blocks, proposed dependencies, gate templates, blank gate records, tools, LMI actions, Classroom workflow, missing inputs, and sources. Its 20 blocks, 46 dependency records, 9 gates, 10 tool capabilities, and 12 missing inputs are proposal data. Conditional relationships remain conditional; validating IDs or acyclicity does not make every branch mandatory. The workbook intentionally has no formulas or automated release logic; formulas were therefore not applicable. Its records are a starting point for source validation, not evidence that the private curriculum has been reviewed.
 
 See [AUTOMOTIVE-TRACK.md](AUTOMOTIVE-TRACK.md) for the proposed automotive/service branch.
+See [SERVICE-MANUAL.md](SERVICE-MANUAL.md) for the service manual template.

@@ -113,3 +113,4 @@ The editable workbook has dedicated sheets for learning blocks, proposed depende
 
 See [AUTOMOTIVE-TRACK.md](AUTOMOTIVE-TRACK.md) for the proposed automotive/service branch.
 See [SERVICE-MANUAL.md](SERVICE-MANUAL.md) for the service manual template.
+See [REFERENCES-CHEATSHEET.md](REFERENCES-CHEATSHEET.md) for service-manual and interchangeable-parts sources.
